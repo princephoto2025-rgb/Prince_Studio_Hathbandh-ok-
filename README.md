@@ -97,8 +97,7 @@
       </p>
     </div>
   </section>
-  ![Image](https://github.com/user-attachments/assets/624a43cb-4cdd-4ced-9820-a53bb81c59fe)
-
+<img width="1000" height="454" alt="Image" src="https://github.com/user-attachments/assets/e4af1e96-0e18-4881-b16d-d3e784ac8abc" />
   <!-- Contact -->
   <section id="contact">
     <h2>Contact Us</h2>
