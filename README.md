@@ -108,8 +108,7 @@
       <p><strong>Location:</strong> Hathbandh, Chhattisgarh</p>
     </div>
   </section>
-!{image alt}("https://github.com/princephoto2025-rgb/Prince_Studio_Hathbandh-ok-/blob/main/prewedding.jpg).
-
+![Image](https://github.com/user-attachments/assets/5aa2350b-25f9-4e9e-9d3e-42703db781fe)
   <!-- Footer -->
   <footer>
     <p>&copy; 2025 Prince Photo Studio. All Rights Reserved.</p>
